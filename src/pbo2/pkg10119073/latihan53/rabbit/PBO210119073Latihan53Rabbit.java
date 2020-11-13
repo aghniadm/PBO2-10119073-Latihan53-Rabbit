@@ -2,8 +2,15 @@ package pbo2.pkg10119073.latihan53.rabbit;
 
 /**
  *
- * @author ACER
+ * @author 
+ * NAMA     : Aghnia Dewi Mahiranie
+ * KELAS    : PBO2
+ * NIM      : 10119073
+ * Deskripsi Program : Program ini berisi program untuk menampilkan status kelinci
+ * dengan konsep pewarisan class
+ *
  */
+
 public class PBO210119073Latihan53Rabbit {
 
     public static void main(String[] args) {
