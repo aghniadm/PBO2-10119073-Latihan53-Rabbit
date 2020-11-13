@@ -1,14 +1,16 @@
-/*
- * To change this license header, choose License Headers in Project Properties.
- * To change this template file, choose Tools | Templates
- * and open the template in the editor.
- */
 package pbo2.pkg10119073.latihan53.rabbit;
 
 /**
  *
- * @author ACER
+ * @author 
+ * NAMA     : Aghnia Dewi Mahiranie
+ * KELAS    : PBO2
+ * NIM      : 10119073
+ * Deskripsi Program : Program ini berisi program untuk menampilkan status kelinci
+ * dengan konsep pewarisan class
+ *
  */
+
 public class Rabbit extends Animal {
     private String color, name;
     
